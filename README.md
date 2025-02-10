@@ -11,8 +11,8 @@ This project is a simple HTML-based curriculum vitae (CV) that showcases my prof
 ## Installation
 To view the CV, simply open the `cv.html` file in any web browser.
 
-### Project URL
-You can access the project here: [https://github.com/Roychemboli/Html-basics1](https://github.com/Roychemboli/Html-basics1/blob/master/mycv.html)
+## Project URL
+[Project page URL](https://github.com/Roychemboli/Html-basics1/blob/master/mycv.html)
 
 ## Usage
 1. Clone the repository or download the `cv.html` file.
