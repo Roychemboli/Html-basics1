@@ -1,7 +1,7 @@
 # CV Project
 
 ## Description
-This project is a simple HTML-based curriculum vitae (CV) that showcases my professional skills, experience, and education. It serves as a digital representation of my qualifications.
+This project is a simple HTML-based curriculum vitae (CV) that showcases my professional skills, experience, and education. You can view the live version of the CV [here](https://github.com/RoyChemboli/Html-basics1/cv.html).
 
 ## Features
 - Responsive design for various devices
@@ -11,8 +11,8 @@ This project is a simple HTML-based curriculum vitae (CV) that showcases my prof
 ## Installation
 To view the CV, simply open the `cv.html` file in any web browser.
 
-### Prerequisites
-No special software is required. Just a modern web browser (e.g., Chrome, Firefox, Safari).
+### Project URL
+You can access the project repository at: [GitHub Repository](https://github.com/RoyChemboli/Html-basics1).
 
 ## Usage
 1. Clone the repository or download the `cv.html` file.
